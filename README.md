@@ -1,21 +1,20 @@
 <p align="center">
-  <img src="no.png" alt="banner" width="1200" height="240" />
+  <img src="no.png" alt="banner" width="1200" height="340" />
 </p>
 
-## yo
+## sup bro
 
-Student dev, builder, and curious tinkerer.
+Student dev, tinkerer.
 
-### Highlights
-- 2024: 2nd Place, Programming — Micro:bit + electromyography project
-- 2025: 1st Place Solo, Programming
-- 2026: 1st Place Team, Web Design — TutorMate AI
-- 2026: 2nd Place Team, PA State Media & Design
-- Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical”
+### Competitive Highlights
+- 2024: 2nd Place Solo, Programming — Micro:bit + electromyography project
+- 2025: 1st Place Solo, Programming - Don't Touch the G6PDD Triggers
+- 2026: 1st Place Duo, Web Design, 2nd Place Team, PA State Media & Design — TutorMate AI
+- 2026: Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical” out of 100 Uni students (In 8th grade...)
 
 ### Robotics & Hardware
-- FLL Team 9891
-- Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, Arduino Uno R4 WiFi
+- Former FLL Team 9891 member
+- Own Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W (2 of em), Arduino Uno R4 WiFi
 
 ### Skills
 - Strong: HTML, CSS, block-based coding, project design
@@ -23,8 +22,8 @@ Student dev, builder, and curious tinkerer.
 - Learning: JavaScript, Java, Kotlin, advanced web development, AI, Rust
 
 ### Tools & IDEs
-- VS Code, PyCharm, Zed, Roblox Studio, Eclipse Animator
-- AI tools: Codex, OpenCode, Ollama
+- VS Code, PyCharm, Zed, Roblox Studio + Eclipse Animator
+- OpenCode, Ollama: Muse Spark 1.3, Qwen2.5-Coder-1.5B-Instruct-Q8_0.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khalidthekman&theme=dark&hide_border=true" alt="GitHub Streak" />
