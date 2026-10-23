@@ -4,18 +4,18 @@
 
 ## yo
 
-I’m a student dev, and I don't stick to anything specific.
-### Experience
-- Philadelphia Regional Media & Design Competition:
-  - 2024: 2nd Place, Programming — Micro:bit + electromyography project
-  - 2025: 1st Place Solo, Programming
-  - 2026: 1st Place Team, Web Design — TutorMate AI
-- PA State Media & Design Competition (2026): 2nd Place Team
-- Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical” out of ~100 participants
+Student dev, builder, and curious tinkerer.
+
+### Highlights
+- 2024: 2nd Place, Programming — Micro:bit + electromyography project
+- 2025: 1st Place Solo, Programming
+- 2026: 1st Place Team, Web Design — TutorMate AI
+- 2026: 2nd Place Team, PA State Media & Design
+- Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical”
 
 ### Robotics & Hardware
-- FLL Team 9891: Helped program during the SUBMERGED and UNEARTHED seasons
-- Hardware I’ve used: Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, Arduino Uno R4 WiFi
+- FLL Team 9891
+- Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, Arduino Uno R4 WiFi
 
 ### Skills
 - Strong: HTML, CSS, block-based coding, project design
@@ -25,3 +25,7 @@ I’m a student dev, and I don't stick to anything specific.
 ### Tools & IDEs
 - VS Code, PyCharm, Zed, Roblox Studio, Eclipse Animator
 - AI tools: Codex, OpenCode, Ollama
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khalidthekman&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
