@@ -19,7 +19,7 @@ Student dev, tinkerer.
 ### Skills
 - Strong: HTML, CSS, block-based coding, project design
 - Medium: Python, Git, GitHub
-- Learning: JavaScript, Java, Kotlin, advanced web development, AI, Rust
+- Learning: JavaScript, Java, Kotlin, advanced web development, Rust
 
 ### Tools & IDEs
 - VS Code, PyCharm, Zed, Roblox Studio + Eclipse Animator
