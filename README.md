@@ -7,9 +7,9 @@
 Student dev, tinkerer.
 
 ### Competitive Highlights
-- 2024: 2nd Place Solo, Programming — Micro:bit + electromyography project
-- 2025: 1st Place Solo, Programming - Don't Touch the G6PDD Triggers
-- 2026: 1st Place Duo, Web Design, 2nd Place Team, PA State Media & Design — TutorMate AI
+- 2024: 2nd Place (Solo), Programming — Micro:bit + electromyography project
+- 2025: 1st Place (Solo), Programming - Don't Touch the G6PDD Triggers
+- 2026: 1st Place (Duo), Web Design, and then 2nd Place at state level — TutorMate AI
 - 2026: Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical” out of 100 Uni students (In 8th grade...)
 
 ### Robotics & Hardware
