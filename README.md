@@ -23,6 +23,8 @@ Student dev, tinkerer.
 - VS Code, PyCharm, Zed, Roblox Studio + Eclipse Animator
 - OpenCode, Ollama: Muse Spark 1.3, Qwen2.5-Coder-1.5B-Instruct-Q8_0.
 
+![My scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=dotlyhiyou)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khalidthekman&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
