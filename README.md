@@ -10,7 +10,7 @@ Student dev, tinkerer.
 
 ### Robotics & Hardware
 - Former FLL Team 9891 member
-- Own Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W (2 of em), Arduino Uno R4 WiFi
+- Toy around with Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, and Arduino Uno R4 WiFi at my disposal
 
 ### Skills
 - Strong: HTML, CSS, block-based coding, project design
