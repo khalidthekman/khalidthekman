@@ -10,6 +10,8 @@ Student dev, tinkerer.
 
 ### Robotics & Hardware
 - Former FLL Team 9891 member
+  - Did programming for seasons **SUBMERGED** and **UNEARTHED**.
+  - (Rest in peace, FLL, as per the seperation following BIOGLOW.)
 - Toy around with Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, and Arduino Uno R4 WiFi at my disposal
 
 ### Skills
