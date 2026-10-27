@@ -1,6 +1,6 @@
-## sup bro
+## hi I guess
 
-Student dev, tinkerer.
+Student dev + tinkerer.
 
 ### Competitive Highlights
 - 2024: 2nd Place (Solo), Programming — Micro:bit + electromyography project
