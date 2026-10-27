@@ -25,6 +25,4 @@ Student dev, tinkerer.
 
 ![My scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=dotlyhiyou)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khalidthekman&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khalidthekman)](https://git.io/streak-stats)
