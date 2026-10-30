@@ -17,7 +17,6 @@
   <li>Former FLL Team 9891 member
     <ul>
       <li>Did programming for seasons <strong>SUBMERGED</strong> and <strong>UNEARTHED</strong>.</li>
-      <li>(Rest in peace, FLL, as per the seperation following BIOGLOW.)</li>
     </ul>
   </li>
   <li>Toy around with Micro:bit, LEGO Mindstorms EV3, Raspberry Pi Zero 2W, and Arduino Uno R4 WiFi at my disposal</li>
