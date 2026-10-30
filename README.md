@@ -5,11 +5,12 @@
 </div>
 
 <h3>Competitive Highlights</h3>
+<p>Most of my projects here can be located on my repo list.</p>
 <ul>
   <li>2024: 2nd Place (Solo), Programming — Micro:bit + electromyography project</li>
   <li>2025: 1st Place (Solo), Programming - Don't Touch the G6PDD Triggers</li>
-  <li>2026: 1st Place (Duo), Web Design, and then 2nd Place at state level — TutorMate AI</li>
-  <li>2026: Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical” out of 140 Uni students (In 8th grade...)</li>
+  <li>2026: 1st Place (Duo), Web Design, and then 2nd Place at state level — TutorMate AI (not available here)</li>
+  <li>2026: Ara (now Reason Machines) x Anthropic x UPenn Hackathon: Won “Most Technical” out of 140 Uni students (not available here)<li>
 </ul>
 
 <h3>Robotics &amp; Hardware</h3>
