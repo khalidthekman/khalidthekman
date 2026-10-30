@@ -1,6 +1,7 @@
 <div align="center">
   <h2>hi I guess</h2>
   <p>Student dev + tinkerer.</p>
+  <p><em>(If you're wondering why I have barely any commits before October 2026 then thats because I made this account a long time ago and forgot about it, and used a different one. I moved my personal stuff over here cuz why not)</em></p>
 </div>
 
 <h3>Competitive Highlights</h3>
