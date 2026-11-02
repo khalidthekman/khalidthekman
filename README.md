@@ -12,7 +12,7 @@
 </ul>
 
 <div align="center">
-   <h3>Tools &amp; IDEs</h3>
+   <h3>Tools, IDE's &amp; AI Models</h3>
 </div>
 <ul>
   <li>VS Code, PyCharm, Zed, Roblox Studio + Eclipse Animator</li>
