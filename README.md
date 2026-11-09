@@ -16,7 +16,7 @@
 </div>
 <ul>
   <li>VS Code, PyCharm, Zed, Roblox Studio + Eclipse Animator</li>
-  <li>OpenCode, Ollama, Codex</li>
+  <li>OpenCode, Ollama, Codex, Hermes</li>
    <li>Muse Spark 1.3, Qwen2.5-Coder-1.5B-Instruct-Q8_0, GPT 6 Luna, Haiku 5.5</li>
 </ul>
 
