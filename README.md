@@ -2,7 +2,7 @@
    <h2>hi I guess</h2>
   <p>I'm a student dev who likes to tinker and mess around with stuff.</p>
    <h3>Competitive Highlights</h3>
-   <p>I have won different places, primarily 1st or 2nd in the Philadelphia Regional (and Pennsylvania regional, once) Media and Design competition over the course of 3-4 years, competed in FLL Mid-atlantic, and won similar awards here and there. These awards helped shape how I interact with things and tackle tasks and projects.</p>    
+   <p>I have won different places, primarily 1st or 2nd in the Philadelphia Regional (and Pennsylvania regional, once) Media and Design competition over the course of 3-4 years, competed in FLL Mid-atlantic, and won similar awards here and there. These awards helped shape how I interact with things and tackle tasks and projects. I've also messed around at Hackclub events.</p>    
    <h3>Skills</h3>
 </div>
 <ul>
